@@ -4,7 +4,7 @@ This project is a **TCP-based peer-to-peer chat application** developed for **As
 
 ---
 
-### 🎛️ **Team Members**
+### 👤 **Team Members**
 
 | Roll no.      | Name                       |
 |---------------|----------------------------|
