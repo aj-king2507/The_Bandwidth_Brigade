@@ -4,6 +4,18 @@ This project is a **TCP-based peer-to-peer chat application** developed for **As
 
 ---
 
+### 🎛️ **Team Members**
+
+| Roll no.      | Name                       |
+|---------------|----------------------------|
+| **230004005** | Ansh Jain                  |
+| **230001068** | Rayavarapu Sreechand       |
+| **230008030** | Shah Mahi Sachinkumar      |
+| **230005011** | Bhumika Aggarwal           |
+| **IR0035**    | Ahmad Ajmeer Shadoo-Buccus |
+
+---
+
 ## 📌 Features
 
 ✅ **Decentralized Peer-to-Peer Communication**  
