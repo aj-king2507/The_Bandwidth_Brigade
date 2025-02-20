@@ -249,8 +249,8 @@ Exiting...
             |
             v
 +-----------------------+
-|  Server Starts       |
-|  Listening for Peers |
+|  Server Starts        |
+|  Listening for Peers  |
 +-----------+-----------+
             |
             v
@@ -260,7 +260,7 @@ Exiting...
             |
             v
 +-----------------------+
-|  Show Menu Options   |
+|  Show Menu Options    |
 +-----------+-----------+
             |
             v
