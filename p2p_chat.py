@@ -150,7 +150,7 @@ def main():
     #         temp_sock.connect(("10.206.4.201", 1255))
 
     #         # Send your server port and message in a structured format
-    #         formatted_message = f"{server_ip}{DELIMITER}{server_port} {team_name} Hi"
+    #         formatted_message = f"{server_ip}{DELIMITER}{server_port} {team_name} Hi from The_Bandwidth_Brigade"
     #         temp_sock.sendall(formatted_message.encode('utf-8'))
 
     #         peers[("10.206.4.122",1255, "Team_Subhra")] = "Connected"  # Add/update peer in the dictionary
@@ -166,7 +166,7 @@ def main():
             temp_sock.connect(("10.206.5.228", 6555))
 
             # Send your server port and message in a structured format
-            formatted_message = f"{server_ip}{DELIMITER}{server_port} {team_name} Hi"
+            formatted_message = f"{server_ip}{DELIMITER}{server_port} {team_name} Hi from The_Bandwidth_Brigade"
             temp_sock.sendall(formatted_message.encode('utf-8'))
 
             peers[("10.206.5.228",6555, "Team_Subhra")] = "Connected"  # Add/update peer in the dictionary
