@@ -147,14 +147,14 @@ def main():
     # try:
     #     with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as temp_sock:
     #         temp_sock.settimeout(5)  # Set a timeout for connection attempts
-    #         temp_sock.connect(("10.206.4.201", 1255))
+    #         temp_sock.connect(("10.206.4.122", 1255))
 
     #         # Send your server port and message in a structured format
     #         formatted_message = f"{server_ip}{DELIMITER}{server_port} {team_name} Hi from The_Bandwidth_Brigade"
     #         temp_sock.sendall(formatted_message.encode('utf-8'))
 
     #         peers[("10.206.4.122",1255, "Team_Subhra")] = "Connected"  # Add/update peer in the dictionary
-    #         print(f"Message sent to 10.206.4.201:1255")
+    #         print(f"Message sent to 10.206.4.122:1255")
     # except socket.timeout:
     #     print(f"Connection to 10.206.4.122:1255 timed out.")
     # except Exception as e:
